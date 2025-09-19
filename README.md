@@ -1,26 +1,17 @@
-# Data Analytics Projects
+Apple iPhone Sales Analysis (Flipkart Dataset)
 
-This repository contains a collection of my **data analytics projects** built as part of my academic coursework at **Goa Institute of Management (PGDM - Big Data Analytics)** as well as personal practice.
+This project analyzes Flipkart sales data to identify the Top 10 iPhones based on customer ratings and reviews, and determine the highest-selling iPhone model on the platform.
 
-## What You'll Find Here
+🔹 Tech Stack: Python, Pandas, Plotly
+🔹 Key Features:
 
-- 📁 **Jupyter Notebooks**: Clean, documented notebooks using Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 📈 **Visualization Projects**: Dashboards and charts using Power BI, Tableau
-- 🧹 **EDA**: Exploratory Data Analysis on real-world and simulated datasets
-- 📊 **Business Analytics**: Case-based insights using structured data
+Data extraction and cleaning of Flipkart iPhone sales records
 
-##  Tools & Technologies
+Ranking algorithm to identify top-rated and best-selling models
 
-- Python, Jupyter Notebook
-- Pandas, Matplotlib, Seaborn
-- SQL, Excel, Power BI, Tableau
+Interactive visualizations (Plotly) for ratings, reviews, and price-discount trends
 
-## Goals
+Buyer behavior insights showing affordability (<₹50K) as a key driver of higher ratings
 
-To showcase my journey in:
-- Data wrangling and storytelling
-- Business insight generation
-- Building a portfolio for internships and placements
-
-This is a living repository — new projects will be added regularly.
-
+📈 Impact:
+Demonstrates how data-driven analysis can guide marketing strategy, product positioning, and pricing decisions in the e-commerce domain.
